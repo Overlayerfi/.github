@@ -7,7 +7,7 @@
 <h1 align="center">Overlayer</h1>
 
 <p align="center">
-  A new layer of money on top of today’s stablecoins.
+  Unlocking the largest idle capital on-chain.
 </p>
 
 <p align="center">
