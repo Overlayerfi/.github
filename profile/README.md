@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://overlayer.fi">
-    <img src="https://raw.githubusercontent.com/Overlayerfi/public-assets/main/OVA_logo.png" alt="Overlayer logo" width="120">
+    <img src="https://raw.githubusercontent.com/Overlayerfi/public-assets/main/overlayer_logo.png" alt="Overlayer logo" width="120">
   </a>
 </p>
 
