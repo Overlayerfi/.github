@@ -15,7 +15,7 @@
   <a href="https://docs.overlayer.fi">Docs</a> •
   <a href="https://x.com/overlayerfi">X</a> •
   <a href="https://t.me/overlayerfi_ann">Telegram</a> •
-  <a href="https://discord.com/invite/wb9p8DSXSA">Discord</a>
+  <a href="https://discord.gg/KB4kpBNF">Discord</a>
 </p>
 
 ---
