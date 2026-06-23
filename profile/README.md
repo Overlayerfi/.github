@@ -7,7 +7,7 @@
 <h1 align="center">Overlayer</h1>
 
 <p align="center">
-  Unlocking the largest idle capital on-chain.
+  Stable capital, made productive.
 </p>
 
 <p align="center">
