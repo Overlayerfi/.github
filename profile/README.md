@@ -15,7 +15,7 @@
   <a href="https://docs.overlayer.fi">Docs</a> •
   <a href="https://x.com/overlayerfi">X</a> •
   <a href="https://t.me/overlayerfi_ann">Telegram</a> •
-  <a href="https://discord.gg/KB4kpBNF">Discord</a>
+  <a href="https://discord.com/invite/WnCkPwwZdN">Discord</a>
 </p>
 
 ---
@@ -40,6 +40,6 @@ Overlayer is building a new layer of money on top of today’s stablecoins, turn
 - 📚 Docs: https://docs.overlayer.fi
 - 🐦 X: https://x.com/overlayerfi
 - 💬 Telegram: https://t.me/overlayerfi_ann  
-- 🕹 Discord: https://discord.com/invite/wb9p8DSXSA  
+- 🕹 Discord: https://discord.com/invite/WnCkPwwZdN  
 
 > Nothing in this organization, its code, or its documentation constitutes financial, investment, or legal advice. Use the protocol at your own risk.
